@@ -12,3 +12,4 @@
 
 ------------
 ![Skills](https://i.ibb.co/Wf58Qd6/skills.png "Skills")
+![Badges](https://i.ibb.co/frBBkZ3/Capture.png "Badges")
