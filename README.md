@@ -19,10 +19,10 @@
 ![](https://i.ibb.co/Ssw0t7W/s-KILLSLOGO02.png)
 
 Soft Skills:
-|Team Player|Team Builder  |Deal maker|
-|--|--|--|
-| Proactive|Curious  |Hard Worker|
-| Fast Learner|Good guy  |I can make Markdown Tables|
+|Team Player|Team Builder  |Deal maker|Honest|
+|--|--|--|--|
+| Proactive|Curious  |Hard Worker|Trustworthy|
+| Fast Learner|Good guy  |Empathic|I can make Markdown Tables|
 ------------
 ## IBM DATA SCIENCE CERTIFICATION - 2021
 
