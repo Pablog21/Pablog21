@@ -11,5 +11,9 @@
 ------------
 
 ------------
-![Skills](https://i.ibb.co/Wf58Qd6/skills.png "Skills")
-![Badges](https://i.ibb.co/frBBkZ3/Capture.png "Badges")
+## IBM DATA SCIENCE CERTIFICATION - 2021
+
+------------
+
+[![IBM DATA](https://i.ibb.co/7GsDf6N/IBM-Data-Science.png "IBM DATA")](http://coursera.org/verify/professional-cert/JA54WB5LWJ86 "IBM DATA")
+
