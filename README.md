@@ -30,3 +30,5 @@ Soft Skills:
 
 [![IBM DATA](https://i.ibb.co/7GsDf6N/IBM-Data-Science.png "IBM DATA")](http://coursera.org/verify/professional-cert/JA54WB5LWJ86 "IBM DATA")
 
+[![Go to my LinkedIn Profile](http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c528.png "LinkedIn Profile")](https://www.linkedin.com/in/pablo-g%C3%B3mez-60b773b7/?locale=en_US "LinkedIn Profile")
+
