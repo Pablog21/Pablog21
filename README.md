@@ -15,7 +15,7 @@
 ## I know how to use...
 
 ------------
-![SomeSkills](https://i.ibb.co/HpJY5jS/s-KILLSLOGO02.png "SomeSkills")
+![SomeSkills](https://i.ibb.co/M847b0b/s-KILLSLOGO01.png "SomeSkills")
 ![](https://i.ibb.co/HpJY5jS/s-KILLSLOGO02.png)
 
 Soft Skills:
