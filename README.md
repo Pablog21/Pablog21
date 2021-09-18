@@ -26,9 +26,15 @@ Soft Skills:
 ------------
 ## IBM DATA SCIENCE CERTIFICATION - 2021
 
+[![Link to Coursera - IBM certificate](https://i.ibb.co/9qLZX6X/IBMData-Science-Diploma.png "Link to Coursera - IBM certificate")](https://www.coursera.org/account/accomplishments/professional-cert/JA54WB5LWJ86 "Link to Coursera - IBM certificate")
+
+------------
+## PYTHON COURSE ON KAGGLE - 2021
+
+[![Link to Kaggle's Diploma](https://i.ibb.co/kBjgtCJ/Kaggle-Python-Diploma.png "Link to Kaggle's Diploma")](https://www.kaggle.com/learn/certification/pablomgomez21/python "Link to Kaggle's Diploma")
 ------------
 
-[![IBM DATA](https://i.ibb.co/7GsDf6N/IBM-Data-Science.png "IBM DATA")](http://coursera.org/verify/professional-cert/JA54WB5LWJ86 "IBM DATA")
+
 
 [![Go to my LinkedIn Profile](http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c528.png "LinkedIn Profile")](https://www.linkedin.com/in/pablo-g%C3%B3mez-60b773b7/?locale=en_US "LinkedIn Profile")
 
