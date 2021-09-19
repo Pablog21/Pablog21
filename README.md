@@ -39,5 +39,4 @@ Soft Skills:
 
 ![](https://i.ibb.co/p1KXtpZ/contact-02.gif)
 
-[![Go to my LinkedIn Profile](http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c528.png "LinkedIn Profile")](https://www.linkedin.com/in/pablo-g%C3%B3mez-60b773b7/?locale=en_US "LinkedIn Profile")
-
+[![](https://i.ibb.co/tMZytVX/h-OWTOCONTACTME-01.gif)](https://www.linkedin.com/in/pablomgomez21/?locale=en_US)[![](https://i.ibb.co/NtsKKxf/h-OWTOCONTACTME-02.gif)](https://www.kaggle.com/pablomgomez21)
