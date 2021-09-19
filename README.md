@@ -23,6 +23,8 @@ Soft Skills:
 |--|--|--|--|
 | Proactive|Curious  |Hard Worker|Trustworthy|
 | Fast Learner|Good guy  |Empathic|I can make Markdown Tables|
+
+![](https://i.ibb.co/vVqCnQv/Certif-02.gif)
 ------------
 ## IBM DATA SCIENCE CERTIFICATION - 2021
 
