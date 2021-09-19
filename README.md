@@ -10,7 +10,7 @@
 
 ------------
 
-![enter image description here](https://i.ibb.co/LkXRqCc/skills.png)
+![](https://i.ibb.co/St75vnb/Skills-02.gif)
 
 ## I know how to use...
 
