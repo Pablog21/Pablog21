@@ -36,7 +36,7 @@ Soft Skills:
 [![Link to Kaggle's Diploma](https://i.ibb.co/kBjgtCJ/Kaggle-Python-Diploma.png "Link to Kaggle's Diploma")](https://www.kaggle.com/learn/certification/pablomgomez21/python "Link to Kaggle's Diploma")
 ------------
 
-
+![](https://i.ibb.co/p1KXtpZ/contact-02.gif)
 
 [![Go to my LinkedIn Profile](http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c528.png "LinkedIn Profile")](https://www.linkedin.com/in/pablo-g%C3%B3mez-60b773b7/?locale=en_US "LinkedIn Profile")
 
