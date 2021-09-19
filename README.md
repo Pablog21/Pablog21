@@ -17,6 +17,7 @@
 ------------
 ![SomeSkills](https://i.ibb.co/M847b0b/s-KILLSLOGO01.png "SomeSkills")
 ![](https://i.ibb.co/HpJY5jS/s-KILLSLOGO02.png)
+![](https://i.ibb.co/F7m9J3C/s-KILLSLOGO03.png)
 
 Soft Skills:
 |Team Player|Team Builder  |Deal maker|Honest|
